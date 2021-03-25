@@ -21,7 +21,8 @@ public static void main(String[] args){
 	_podemos passar uma sequencia de caracteres e perguntar qual é a posição dessa 
 	String dentro da cadeia de caracteres_ 
 	>>int pos = nome.indexOf("es");
-	_possibilita a criação de uma subString. Ou seja, é manipulada uma cadeia de 		<br/> caracter e é retornada uma nova_
+	_possibilita a criação de uma subString. Ou seja, é manipulada uma cadeia de caracter e é  
+	retornada uma nova_<br/> 
 	>>String sub = nome.substring(1); 
 	>>System.out.printl(sub); 
 	
